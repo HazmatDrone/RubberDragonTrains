@@ -8,7 +8,7 @@
 
 ### Modpack Installation
 1. Download the [modpack] (v1.1)
-2. Drag the modpack zip file into the main window of the Prism Launcher (no extraction necessary)
+2. Drag the modpack zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
 3. Accept
 4. Sign into your MS account via the Prism launcher
 5. Run the modpack
