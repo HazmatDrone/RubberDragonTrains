@@ -4,7 +4,7 @@
 
 ### Prerequisites
 1. Make sure you have [Java 17] installed first.
-2. Download and install [Prism Launcher]
+2. Download and install [Prism Launcher] (it will handle installing Minecraft for you)
 3. During installation, set Java **17** as the default Java
 4. Try to allocate about **8192MiB** of RAM at the minimum (your choice of max RAM)
 5. Sign into your MS account via the Prism launcher
