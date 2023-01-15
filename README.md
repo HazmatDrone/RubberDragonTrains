@@ -1,10 +1,5 @@
 # RubberDragonTrains Modpack
 
-## Mods List
-The list of mods can be found [here][mods].
-
-[mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
-
 ## Installation
 
 ### Prerequisites
@@ -25,6 +20,11 @@ The list of mods can be found [here][mods].
 5. Run the modpack
 
 [Modpack]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
+
+## Mods List
+The list of mods can be found [here][mods].
+
+[mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
 
 ## Known Issues
 This version of Create/Flywheel has some severe rendering issues on certain RX series cards on Windows. If you are experiencing crashes when trying to connect to the server or launch a world, follow these instructions:
