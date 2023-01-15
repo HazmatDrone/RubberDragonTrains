@@ -1,5 +1,11 @@
 # RubberDragonTrains Modpack
 
+## Mods List
+[The list of mods can be found here.][mods]
+
+[Mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
+
+
 ## Installation
 
 ### Prerequisites
@@ -21,15 +27,6 @@
 
 [Modpack zip]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
 
-### Modpack (with git)
-**Ignore this unless you know what this entails.** Otherwise, just follow the instructions above for installing from zip.
-- In the main Prism Launcher window, click **Folders**, and then **View Instance Folder**
-- You can clone the repo into this folder and simply `git pull` whenever we update.
-
-## Mods List
-[The list of mods can be found here.][mods]
-
-[Mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
 
 ## Known Issues
 This version of Create/Flywheel has some severe rendering issues on certain RX series cards on Windows. If you are experiencing crashes when trying to connect to the server or launch a world, follow these instructions:
