@@ -1,7 +1,9 @@
 # RubberDragonTrains Modpack
 
 ## Mods List
-The list of mods can be found [here][mods]
+The list of mods can be found [here][mods].
+
+[mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
 
 ## Installation
 
@@ -12,17 +14,17 @@ The list of mods can be found [here][mods]
 4. Try to allocate about **8192MiB** of RAM at the minimum (your choice of max RAM)
 5. Sign into your MS account via the Prism launcher
 
-### Modpack
-- [Instructions for installing and upgrading the modpack can be found here!][latest pack release]
-
-
-
-[mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
 
 [Java 17]: https://aka.ms/download-jdk/microsoft-jdk-17.0.5-windows-x64.msi 
 [Prism Launcher]: https://prismlauncher.org/download/
 
-[Latest pack release]: https://github.com/HazmatDrone/RubberDragonTrains/releases/latest
+### Modpack
+1. Download the [modpack here][modpack]
+2. Drag the modpack zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
+3. Accept the dialog
+5. Run the modpack
+
+[Modpack]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
 
 ## Known Issues
 This version of Create/Flywheel has some severe rendering issues on certain RX series cards on Windows. If you are experiencing crashes when trying to connect to the server or launch a world, follow these instructions:
