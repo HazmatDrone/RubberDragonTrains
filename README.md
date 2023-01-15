@@ -14,17 +14,17 @@
 [Prism Launcher]: https://prismlauncher.org/download/
 
 ### Modpack
-1. Download the [modpack here][modpack]
+1. [Download the modpack][modpack]
 2. Drag the modpack zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
-3. Accept the dialog
-5. Run the modpack
+3. Accept the Prism Launcher dialog to extract the files and install the modpack
+4. Run the modpack
 
 [Modpack]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
 
 ## Mods List
-The list of mods can be found [here][mods].
+[The list of mods can be found here.][mods]
 
-[mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
+[Mods]: https://github.com/HazmatDrone/RubberDragonTrains/tree/master/.minecraft/mods
 
 ## Known Issues
 This version of Create/Flywheel has some severe rendering issues on certain RX series cards on Windows. If you are experiencing crashes when trying to connect to the server or launch a world, follow these instructions:
