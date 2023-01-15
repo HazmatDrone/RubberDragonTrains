@@ -13,11 +13,17 @@
 [Java 17]: https://aka.ms/download-jdk/microsoft-jdk-17.0.5-windows-x64.msi 
 [Prism Launcher]: https://prismlauncher.org/download/
 
-### Modpack
+### Modpack (from zip)
 1. [Download the modpack][modpack]
 2. Drag the modpack zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
 3. Accept the Prism Launcher dialog to extract the files and install the modpack
 4. Run the modpack
+
+
+### Modpack (with git)
+**Ignore this unless you know what this entails.** Otherwise, just follow the instructions above for installing from zip.
+- In the main Prism Launcher window, click **Folders**, and then **View Instance Folder**
+- You can clone the repo into this folder and simply `git pull` whenever we update.
 
 [Modpack]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
 
