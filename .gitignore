@@ -6,6 +6,8 @@
 .minecraft/localconfigs
 .minecraft/logs
 .minecraft/saves
+.minecraft/openvr/
+.minecraft/optionsviveprofiles.txt
 .minecraft/options.txt
 .minecraft/screenshots
 .minecraft/schematics
@@ -17,3 +19,4 @@
 .minecraft/server-resource-packs
 .minecraft/shaderpacks
 .minecraft/texturepacks
+instance.cfg
