@@ -20,8 +20,8 @@
 [Prism Launcher]: https://prismlauncher.org/download/
 
 ### Modpack (from zip)
-1. [Download the modpack zip][modpack zip]
-2. Drag the source code zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
+1. [Download the modpack source code zip][modpack zip]
+2. Drag the  zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
 3. Accept the Prism Launcher dialog to extract the files and install the modpack
 4. Run the modpack
 
