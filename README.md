@@ -21,11 +21,11 @@
 
 ### Modpack (from zip)
 1. [Download the modpack zip][modpack zip]
-2. Drag the modpack zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
+2. Drag the source code zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
 3. Accept the Prism Launcher dialog to extract the files and install the modpack
 4. Run the modpack
 
-[Modpack zip]: https://github.com/HazmatDrone/RubberDragonTrains/archive/refs/tags/v1.1.zip
+[Modpack zip]: https://github.com/HazmatDrone/RubberDragonTrains/releases/latest
 
 
 ## Known Issues
