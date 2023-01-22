@@ -8,25 +8,9 @@
 
 ## Installation
 
-### Prerequisites
-1. Make sure you have [Java 17] installed first.
-2. Download and install [Prism Launcher] (it will handle installing Minecraft and the mods for you)
-3. During installation, set Java **17** as the default Java
-4. Try to allocate about **8192MiB** of RAM at the minimum (your choice of max RAM)
-5. Sign into your MS account via the Prism launcher
+Follow the instructions at the [latest release].
 
-
-[Java 17]: https://aka.ms/download-jdk/microsoft-jdk-17.0.5-windows-x64.msi 
-[Prism Launcher]: https://prismlauncher.org/download/
-
-### Modpack (from zip)
-1. [Download the modpack source code zip][modpack zip]
-2. Drag the  zip file **directly** into the main window of the Prism Launcher (no extraction necessary)
-3. Accept the Prism Launcher dialog to extract the files and install the modpack
-4. Run the modpack
-
-[Modpack zip]: https://github.com/HazmatDrone/RubberDragonTrains/releases/latest
-
+[Latest release]: https://github.com/HazmatDrone/RubberDragonTrains/releases/latest/
 
 ## Known Issues
 This version of Create/Flywheel has some severe rendering issues on certain RX series cards on Windows. If you are experiencing crashes when trying to connect to the server or launch a world, follow these instructions:
