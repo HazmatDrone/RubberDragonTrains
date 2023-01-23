@@ -8,7 +8,7 @@
 
 ## Installation
 
-Follow the instructions at the [latest release].
+Follow the instructions to install from scratch at the [latest release].
 
 [Latest release]: https://github.com/HazmatDrone/RubberDragonTrains/releases/latest/
 
