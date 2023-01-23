@@ -1,5 +1,7 @@
 # RubberDragonTrains Modpack
 
+![modpack banner](banner.png)
+
 ## Installation
 
 Follow the instructions to install from scratch at the [latest release].
