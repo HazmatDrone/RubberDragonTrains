@@ -2,6 +2,7 @@
 .minecraft/backups/
 .minecraft/config/
 .minecraft/crash-reports/
+.minecraft/littleframe_cache/gi
 .minecraft/local/
 .minecraft/localconfigs/
 .minecraft/logs/
