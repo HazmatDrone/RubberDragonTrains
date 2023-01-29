@@ -1,6 +1,6 @@
 # RubberDragonTrains Modpack
 
-![modpack banner](banner.png)
+![modpack banner](misc/banner.png)
 
 ## Installation
 
